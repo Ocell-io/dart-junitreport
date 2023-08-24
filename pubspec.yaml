@@ -10,7 +10,7 @@ dependencies:
   args: ^2.4.2
   intl: ^0.18.1
   testreport: ^2.0.1
-  xml: ^6.4.0
+  xml: ^5.3.1
 
 dev_dependencies:
   test: any
